@@ -1,2 +1,2 @@
 # cursoGitHub
-CursoGitHub
+CursoGitHub by platzi
